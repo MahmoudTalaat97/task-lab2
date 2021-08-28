@@ -29,6 +29,7 @@
 26.	git pull origin amr-magdy-branch
 27.	git pull origin mahmoud-mustafa-branch
 28.	git push origin Talaat
+29.	git reset --hard origin/master
 
 
 # Last 5 Commits

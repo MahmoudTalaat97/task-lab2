@@ -55,7 +55,71 @@ Date:   Sat Aug 28 15:22:26 2021 +0200
     updated branch
 
 ## All logs
-amr-magdy-branch
+commit 7ac10c87178834c17ea9a61e5777f6621aa78508 (HEAD -> mahmoud-mustafa-branch, origin/mahmoud-mustafa-branch, origin/amr-magdy-branch, origin/Talaat)
+Merge: b89ce3e c7b8d23
+Author: Mahmoud Talaat <mahmoudtalaat2010@gmail.com>
+Date:   Sat Aug 28 15:25:45 2021 +0200
+
+    Merge branch 'mahmoud-mustafa-branch' of https://github.com/MahmoudTalaat97/task-lab2 into Talaat
+
+commit b89ce3e72da1d3864a3c565fa212ab3b6d027fde
+Merge: 07a5a8a c1cbfde
+Author: Mahmoud Talaat <mahmoudtalaat2010@gmail.com>
+Date:   Sat Aug 28 15:25:13 2021 +0200
+
+    Merge branch 'amr-magdy-branch' of https://github.com/MahmoudTalaat97/task-lab2 into Talaat
+
+commit 07a5a8a256ebaf5f8ff1742fb8fb6ae8a0249676
+Author: Mahmoud Talaat <mahmoudtalaat2010@gmail.com>
+Date:   Sat Aug 28 15:23:30 2021 +0200
+
+    update files
+
+commit c7b8d23c3d32e0c66da6ea8a9b4679ddab214c64
+Author: mamume <mmustafametwally@gmail.com>
+Date:   Sat Aug 28 15:22:53 2021 +0200
+
+    Add index.js
+
+commit c1cbfde4ff8af8fc7f6119c83626495ce770ec04
+Author: unknown <aaaro95@gmail.com>
+Date:   Sat Aug 28 15:22:26 2021 +0200
+
+    updated branch
+
+commit ba3eba6d1335ac83006003d44a02be861e133411
+Merge: 77d91b8 d008095
+Author: Mahmoud Talaat <mahmoudtalaat2010@gmail.com>
+Date:   Sat Aug 28 15:19:08 2021 +0200
+
+    Merge remote-tracking branch 'origin/amr-magdy-branch' into Talaat
+
+commit 20460223e515862271062ce1e842668bf0e04638
+Merge: d008095 77d91b8
+Author: unknown <aaaro95@gmail.com>
+Date:   Sat Aug 28 15:18:02 2021 +0200
+
+    Merge remote-tracking branch 'origin/Talaat' into amr-magdy-branch
+
+commit 99b0150943b7322178c4d8124775ce29cd13c83b
+Merge: 6b1a4c4 d008095
+Author: mamume <mmustafametwally@gmail.com>
+Date:   Sat Aug 28 15:15:38 2021 +0200
+
+branch
+
+commit 6b1a4c44f62c1420225e9e8b274959d9e124feec
+Merge: 77d91b8 b50d83b
+Author: mamume <mmustafametwally@gmail.com>
+Date:   Sat Aug 28 15:14:40 2021 +0200
+
+branch
+
+commit d00809588ce51fa46d95c2812a0b85e44bca637f
+Author: unknown <aaaro95@gmail.com>
+Date:   Sat Aug 28 15:13:57 2021 +0200
+
+    added file to amr-magdy-branch
 
 commit faf3564f8d72df9eb6f410b753bc1e8dc788729f
 Author: unknown <aaaro95@gmail.com>
